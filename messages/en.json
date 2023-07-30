@@ -8,5 +8,8 @@
     "Header": {
         "home": "Home",
         "about": "About"
+    },
+    "LocaleSwitcher": {
+        "locale": "{locale, select, fr {French} en {English} other {Unknown}}"
     }
 }
