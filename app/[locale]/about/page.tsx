@@ -1,3 +1,5 @@
+//app/[locale]/about/page.tsx
+
 'use client'
 import { useTranslations } from 'next-intl'
 
